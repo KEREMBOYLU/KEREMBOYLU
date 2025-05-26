@@ -1,3 +1,11 @@
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KEREMBOYLU/KEREMBOYLU/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KEREMBOYLU/KEREMBOYLU/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/KEREMBOYLU/KEREMBOYLU/blob/output/github-snake.svg" />
+</picture>
+
 # 👋 Hi, I'm Kerem BOYLU
 
 I'm a software engineering student focused on building real-world solutions through mobile and web technologies.  
